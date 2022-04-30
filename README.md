@@ -1,0 +1,4 @@
+# finlite
+
+A trading simulator
+
